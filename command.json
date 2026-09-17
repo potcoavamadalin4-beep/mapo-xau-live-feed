@@ -1,11 +1,11 @@
 {
-  "id": "XAU-WAIT-20260917-1935",
+  "id": "TEST-BUY-EXEC-20260917-1939",
   "symbol": "XAUUSD",
-  "action": "WAIT",
-  "entry": "NONE",
-  "sl": 0,
-  "tp1": 0,
-  "tp2": 0,
-  "tp3": 0,
-  "expires_unix": 0
+  "action": "BUY",
+  "entry": "MARKET",
+  "sl": 4335.00,
+  "tp1": 4350.00,
+  "tp2": 4355.00,
+  "tp3": 4360.00,
+  "expires_unix": 1789674300
 }
