@@ -1,0 +1,11 @@
+{
+  "id": "INIT-0001",
+  "symbol": "XAUUSD",
+  "action": "WAIT",
+  "entry": "NONE",
+  "sl": 0,
+  "tp1": 0,
+  "tp2": 0,
+  "tp3": 0,
+  "expires_at": "2099-01-01T00:00:00Z"
+}
