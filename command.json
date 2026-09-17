@@ -1,5 +1,5 @@
 {
-  "id": "TEST-WAIT-20260917-2104",
+  "id": "TEST-WAIT-20260917-2106",
   "symbol": "XAUUSD",
   "action": "WAIT",
   "entry": "NONE",
@@ -7,5 +7,5 @@
   "tp1": 0,
   "tp2": 0,
   "tp3": 0,
-  "expires_at": "2026-09-17T19:10:00Z"
+  "expires_unix": 0
 }
