@@ -1,11 +1,11 @@
 {
-  "id": "TEST-BUY-20260917-2108",
+  "id": "SAFE-WAIT-20260917-2128",
   "symbol": "XAUUSD",
-  "action": "BUY",
-  "entry": "MARKET",
-  "sl": 4345.00,
-  "tp1": 4360.00,
-  "tp2": 4365.00,
-  "tp3": 4370.00,
-  "expires_unix": 1789672800
+  "action": "WAIT",
+  "entry": "NONE",
+  "sl": 0,
+  "tp1": 0,
+  "tp2": 0,
+  "tp3": 0,
+  "expires_unix": 0
 }
