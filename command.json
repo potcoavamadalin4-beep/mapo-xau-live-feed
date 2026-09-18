@@ -1,11 +1,11 @@
 {
-  "id": "XAU-SELL-20260918-1335",
+  "id": "XAU-WAIT-20260918-1355",
   "symbol": "XAUUSD",
-  "action": "SELL",
-  "entry": "MARKET",
-  "sl": 4368.20,
-  "tp1": 4353.50,
-  "tp2": 4346.00,
-  "tp3": 4338.00,
-  "expires_unix": 1789739100
+  "action": "WAIT",
+  "entry": "NONE",
+  "sl": 0,
+  "tp1": 0,
+  "tp2": 0,
+  "tp3": 0,
+  "expires_unix": 0
 }
