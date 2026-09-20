@@ -1,11 +1,11 @@
 {
-  "id": "XAU-SELL-20260918-1840",
+  "id": "MAPO-TEST-WAIT-20260920-1933",
   "symbol": "XAUUSD",
-  "action": "SELL",
-  "entry": "MARKET",
-  "sl": 4397.50,
-  "tp1": 4378.50,
-  "tp2": 4371.50,
-  "tp3": 4362.50,
-  "expires_unix": 1789757400
+  "action": "WAIT",
+  "entry": "NONE",
+  "sl": 0,
+  "tp1": 0,
+  "tp2": 0,
+  "tp3": 0,
+  "expires_unix": 0
 }
