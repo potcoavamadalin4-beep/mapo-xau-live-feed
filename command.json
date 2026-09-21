@@ -1,11 +1,11 @@
 {
-  "id": "MAPO-WORKER-LATENCY-20260920-2038",
+  "id": "XAU-BUY-20260921-0440",
   "symbol": "XAUUSD",
-  "action": "WAIT",
-  "entry": "NONE",
-  "sl": 0,
-  "tp1": 0,
-  "tp2": 0,
-  "tp3": 0,
+  "action": "BUY",
+  "entry": "MARKET",
+  "sl": 4355.3,
+  "tp1": 4368,
+  "tp2": 4372.2,
+  "tp3": 4377.3,
   "expires_unix": 0
 }
