@@ -1,11 +1,11 @@
 {
-  "id": "XAU-BUY-20260921-1205",
+  "id": "XAU-SELL-20260921-1450",
   "symbol": "XAUUSD",
-  "action": "BUY",
+  "action": "SELL",
   "entry": "MARKET",
-  "sl": 4359.5,
-  "tp1": 4377.3,
-  "tp2": 4383.25,
-  "tp3": 4390,
+  "sl": 4344.2,
+  "tp1": 4328,
+  "tp2": 4322.6,
+  "tp3": 4314,
   "expires_unix": 0
 }
